@@ -1,4 +1,4 @@
 
-i have made some changes
+i have made changes
 
 file contains functions related to database

@@ -1,0 +1,5 @@
+#Below are list of files and folders to exclude
+
+.classpath
+.project
+/node_modules
